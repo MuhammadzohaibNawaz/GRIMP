@@ -1,4 +1,4 @@
-GRIMP.cpp is the C++ file for GRIMP. 
+GRIMPCode.cpp is the C++ file for GRIMP. 
 You can edit any dataset name inside it.
 Number of patterns you want to be inside of CT can be selected.
 
